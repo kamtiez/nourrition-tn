@@ -1,0 +1,7 @@
+{
+  "name": "Nourish & Glow - Nutritionniste Tunisienne",
+  "description": "Site moderne et lumineux pour une nutritionniste spécialisée en rééquilibrage alimentaire et perte de poids saine en Tunisie.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
